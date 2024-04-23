@@ -4,3 +4,7 @@
 
 3. A screenshot showing RabbitMQ simulating slow response
 ![Slow-response](img/slow-response.png "slow-response")
+
+4. Screenshots of the app running multiple subscribers
+![3-subscriber-cmd](img/3-subscriber-cmd.png "3-sub-cmd")
+![3-subscriber-rabbitMQ](img/3-subscriber-RabbitMQ.png "3-sub-rabbitmq")
